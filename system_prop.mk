@@ -1,6 +1,6 @@
 # Audio
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.vendor.audio.sdk.fluencetype=fluencepro \
+    ro.vendor.audio.sdk.fluencetype=fluence \
     persist.vendor.audio.fluence.audiorec=false \
     persist.vendor.audio.fluence.speaker=false \
     persist.vendor.audio.fluence.voicecall=true \
